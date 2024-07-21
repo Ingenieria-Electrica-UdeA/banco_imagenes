@@ -1,1 +1,1 @@
-# banco_imagenes
+<p>Este es un banco de imagenes para cargar todas las imagenes utilizadas en los diferentes repositorios del departamento para así tener un mejor orden</p>
